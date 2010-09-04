@@ -1,17 +1,15 @@
   Changelog for IMDbPY
   ====================
 
-* What's the new in release 4.8dev20100821 "Splice" (21 Aug 2010)
-  [sql]
-  - the tables containing titles and names (and akas) now
-    include a 'md5sum' column calculated on the
-    "long imdb canonical title/name".
-
-
-* What's the new in release 4.7 "Halloween II" (26 Jul 2010)
+* What's the new in release 4.7dev20100904 "The Expendables" (04 Sept 2010)
  [http]
  - fix for lists of uncategorized episodes.
  - fix for movies with multiple countries.
+ - more robust handling for vote details.
+
+ [sql]
+ - the tables containing titles and names (and akas) now
+   include a 'md5sum' column calculated on the "long imdb canonical title/name".
 
 
 * What's the new in release 4.6 "The Road" (19 Jun 2010)
