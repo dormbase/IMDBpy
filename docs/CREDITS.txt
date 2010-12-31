@@ -23,6 +23,8 @@ patches and hints (kept in a reverse order since IMDbPY 4.5):
 
 * Ramusus for a lot of precious bug reports.
 
+* Laurent Vergne for a hint about InnoDB, MyISAM and foreign keys.
+
 * Israel Fruch for patches to support the new set of parsers.
 
 * Inf3cted MonkeY, for a bug report about 'vote details'.
